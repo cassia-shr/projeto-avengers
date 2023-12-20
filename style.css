@@ -95,7 +95,7 @@
   .hero {
     height: 320px;
     padding: 24px;
-    background-image: url(../banner.jpg);
+    background-image: url("banner.jpg");
     background-size: cover;
     background-position: center 25%;
     display: flex;
